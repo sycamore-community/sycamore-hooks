@@ -9,7 +9,7 @@ gloo-net = { version = "0.6.0", optional = true }
 gloo-timers = { version = "0.3.0", features = ["futures"], optional = true }
 js-sys = "0.3.59"
 serde = { version = "1.0.140", features = ["derive"], optional = true }
-sycamore = "0.9.0-beta.4"
+sycamore = "0.9.0"
 web-sys = "0.3.59"
 
 [dev-dependencies]
