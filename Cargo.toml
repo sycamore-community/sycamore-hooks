@@ -13,7 +13,7 @@ sycamore = "0.9.0"
 web-sys = "0.3.59"
 
 [dev-dependencies]
-tokio = { version = "1.20.4", features = ["rt", "macros"] }
+tokio = { version = "1.43.1", features = ["rt", "macros"] }
 
 [features]
 default = []
